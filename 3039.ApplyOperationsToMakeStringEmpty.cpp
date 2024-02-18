@@ -41,7 +41,10 @@ s consists only of lowercase English letters.
 
 */
 
+#include<iostream>
+#include<vector>
 
+using namespace std;
 
 class Solution {
 public:
@@ -68,3 +71,8 @@ public:
         return ans;
     }
 };
+
+int main() {
+    
+}
+
