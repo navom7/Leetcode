@@ -1,11 +1,7 @@
 /*
 
-100226. Count Pairs of Connectable Servers in a Weighted Tree Network
-User Accepted:1649
-User Tried:2329
-Total Accepted:1695
-Total Submissions:3355
-Difficulty:Medium
+3067. Count Pairs of Connectable Servers in a Weighted Tree Network
+
 You are given an unrooted weighted tree with n vertices representing servers numbered from 0 to n - 1, an array edges where edges[i] = [ai, bi, weighti] represents a bidirectional edge between vertices ai and bi of weight weighti. You are also given an integer signalSpeed.
 
 Two servers a and b are connectable through a server c if:
