@@ -69,6 +69,7 @@ public:
 };
 
 int main() {
-    
+    // cout << 5&2;
+    // cout << 5  2 ;
     return 0;
 }
